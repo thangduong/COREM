@@ -1,0 +1,4 @@
+/opt/nest/lib/nest/corem_module.so
+/opt/nest/lib/nest/libcorem_module.so
+/opt/nest/include/corem_module/corem_module.h
+/opt/nest/share/nest/sli/corem_module-init.sli
